@@ -1,6 +1,0 @@
-package factory;
-
-class ReportCreator {
-
-    
-}
